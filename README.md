@@ -7,7 +7,7 @@
 # Prerequisite
 You should have basic knowledge of:
 
- 1. **Node.js** - [Tutorial](https://youtu.be/BSO9C8Z-YV8)
+ 1. **Node.js** - https://youtu.be/BSO9C8Z-YV8(https://youtu.be/BSO9C8Z-YV8)
   
  2. **React.js** - [Tutorial](https://youtu.be/99kgUCIMboY)
     
