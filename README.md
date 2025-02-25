@@ -7,15 +7,15 @@
 # Prerequisite
 You should have basic knowledge of:
 
- 1. **Node.js** - https://youtu.be/BSO9C8Z-YV8(https://youtu.be/BSO9C8Z-YV8)
+ 1. **Node.js** - https://youtu.be/BSO9C8Z-YV8
   
- 2. **React.js** - [Tutorial](https://youtu.be/99kgUCIMboY)
+ 2. **React.js** - https://youtu.be/99kgUCIMboY
     
- 3. **Express.js** - [Tutorial](https://youtu.be/teipbke8c4A)
+ 3. **Express.js** -https://youtu.be/teipbke8c4A
   
- 4. **MongoDB** - [Tutorial](https://youtu.be/AYDP15SBbTo)
+ 4. **MongoDB** - https://youtu.be/AYDP15SBbTo
   
- 5. **REST API** (optional) - [Tutorial](https://youtu.be/AhCSfuG9Jxw)
+ 5. **REST API** (optional) - https://youtu.be/AhCSfuG9Jxw
 
  # Install Dependencies
  
